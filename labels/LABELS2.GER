@@ -1,0 +1,29 @@
+[MENU]
+/File
+&Datei
+&Starten
+&Optionen...
+&Info...
+&Beenden
+
+/Edit
+B&earbeiten
+&Kopieren
+&Einfügen
+&Speichern...
+&Löschen
+S&chriftart...
+
+[BUTTONS]
+&Starten
+&Beenden
+Die Berechnung starten.
+Das Programm verlassen.
+
+[OPTIONS]
+&Winkel:
+&Komplexe Ausgabe:
+S&prache:
+&Gross-/Kleinschreibung
+&Zusätzliche Informationen
+&Stellen:

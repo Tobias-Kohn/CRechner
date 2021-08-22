@@ -1,0 +1,29 @@
+[MENU]
+/File
+&File
+&Calculate
+&Options...
+&About...
+&Quit
+
+/Edit
+&Edit
+&Copy
+&Paste
+&Save...
+C&lear
+&Font
+
+[BUTTONS]
+&Calculate
+&Quit
+Start calculation.
+Quit the program.
+
+[OPTIONS]
+&Angle:
+Co&mplex output:
+&Language:
+Ca&se sensitive
+Addi&tional informations
+&Digits:
